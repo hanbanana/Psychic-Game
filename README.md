@@ -6,4 +6,4 @@
 [Psychic-Game](https://hanbanana.github.io/Psychic-Game/)
 
 ### Screenshot
-![Psychic-Game Screenshot](https://github.com/hanbanana/Psychic-Game/master/screenshot/Psychic-Game.jpg)
+![Psychic-Game Screenshot](https://github.com/hanbanana/Psychic-Game/blob/master/screenshot/psychic-game.JPG)
